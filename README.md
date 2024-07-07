@@ -5,7 +5,7 @@ https://movix-93n2xq1x2-gitaalekh6763s-projects.vercel.app/
 This is a movie application built using React.js and the TMDB API for database access. The application allows users to browse popular movies, search for movies by title, view movie details, and watch trailers, relevent videos,etc.
 
 # Deployment
-This project is deployed on GitHub Pages. You can access the deployed version here.
+This project is deployed on Vercel. You can access the deployed version here.
 Click [here](https://movix-93n2xq1x2-gitaalekh6763s-projects.vercel.app/)
 
 # Features

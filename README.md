@@ -1,27 +1,27 @@
 # Movix
-https://gitaalekh6763.github.io/Movix/
+https://movix-93n2xq1x2-gitaalekh6763s-projects.vercel.app/
 
-##Description
+# Description
 This is a movie application built using React.js and the TMDB API for database access. The application allows users to browse popular movies, search for movies by title, view movie details, and watch trailers, relevent videos,etc.
 
-##Deployment
+# Deployment
 This project is deployed on GitHub Pages. You can access the deployed version here.
-Click [here](https://gitaalekh6763.github.io/Movix/)
+Click [here](https://movix-93n2xq1x2-gitaalekh6763s-projects.vercel.app/)
 
-##Features
+# Features
 1. Browse popular movies
 2. Search for movies by title
 3. Sort by genre
 4. View movie details, including synopsis, release date, and rating
 5. Watch trailers for selected movies
 
-##Technologies Used
+# Technologies Used
 1. React.js: Frontend library for building the user interface
 2. TMDB API: The Movie Database API for accessing movie data
 3. Axios: Promise-based HTTP client for making API requests
 4. React Router: Declarative routing library for navigating between pages
 
-##Installation
+# Installation
 1. Clone the repository:
 ```
 git clone https://github.com/your-username/movie-app.git
@@ -43,7 +43,7 @@ DB_API_KEY=your-tmdb-api-key
 ```
 npm start
 ```
-##Usage
+# Usage
 1. Browse popular movies on the homepage.
 2. Use the search bar to find movies by title.
 3. Click on a movie to view its details, including synopsis and trailers.
